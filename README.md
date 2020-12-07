@@ -1,2 +1,2 @@
-# Intern_Sparks_Foundation_
+# Intern Sparks Foundation
 Intern work at Sparks Foundation
